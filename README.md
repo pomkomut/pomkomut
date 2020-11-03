@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-https://github-profile-trophy.vercel.app/?username=pomkomut&row=2&column=3
+https://github-profile-trophy.vercel.app/?username=pomkomut&row=1&column=3
 
 
 <!--
